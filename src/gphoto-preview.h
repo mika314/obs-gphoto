@@ -1,5 +1,5 @@
-#include <obs-module.h>
-#include <obs-internal.h>
+#include <obs/obs-module.h>
+#include <obs/obs-internal.h>
 #include <gphoto2/gphoto2-camera.h>
 
 struct preview_data {

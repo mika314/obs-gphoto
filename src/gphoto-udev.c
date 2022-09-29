@@ -1,4 +1,4 @@
-#include <obs-internal.h>
+#include <obs/obs-internal.h>
 #include <libudev.h>
 
 enum udev_action {
