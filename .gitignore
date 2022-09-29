@@ -1,0 +1,7 @@
+/install_manifest.txt
+/CMakeCache.txt
+*~
+/CMakeFiles/
+/Makefile
+/build/
+/cmake_install.cmake
